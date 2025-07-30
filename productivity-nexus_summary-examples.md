@@ -2,6 +2,66 @@
 
 ---
 
+### Claude gets a voice.
+
+Actually, it gets five voices.
+
+- [Voice mode](https://b7dwf.r.a.d.sendibm1.com/mk/cl/f/sh/WCPzyXJTZ7YJH4H4YtJYAZVaEohcvRGo/dnWmC7HgS9gj) is rolling out across Claude mobile apps, making Anthropic the last major AI lab to support naturally spoken conversations with its chatbot.
+- Conversations are transcribed in real time, and you can easily switch between talking and typing without disruption.
+- Free users receive 20-30 voice messages a month. Paying subscribers have “significantly higher” limits.
+- English-speaking users are receiving the feature over the next few weeks.
+
+#### Nutt's Notes
+
+- Across chatbots, voice mode is among the most astonishing features of AI. It's a top recommendation by experts, yet it's widely underutilized.
+- I spend 90% of my time on the highway learning from ChatGPT. Now, I'm excited to split that with Claude.
+- With web search, Google Workspace integration, and now voice mode, Claude remains a serious contender with ChatGPT for the general-purpose chatbot worthy of your credit card. It codes better and writes better, but it doesn't generate images.
+
+---
+
+### Forget SEO. Enter GEO.
+
+Andreesen Horowitz published a hearty post on the shift from SEO to optimizing for LLM citations. Key takeaways:
+
+- For decades, SEO has been the core driver of website traffic, relying on strategies like keywords, backlinks, and user engagement to improve page rankings.
+- With the shift from traditional search to AI, website visibility and discovery hinges on appearing within AI-generated answers and citation links, which are proving to drive referral traffic at a growing rate.
+- That requires a pivot from SEO to Generative Engine Optimization (GEO).
+- GEO means optimizing content specifically for language models, prioritizing content that is well-organized, easily parsed, and rich in meaning. Unlike traditional SEO, which often rewarded keyword density and repetition, GEO values content that LLMs can readily extract and reproduce, favoring structured formats such as summaries and bullet points.
+- New platforms—like NoGood, Profound and daydream—are emerging to assist brands in analyzing their presence in AI responses and tracking the sentiment associated with their brand across different model.
+
+---
+
+### H Company revealed a suite of next-generation autonomous agents.
+
+- **Runner** H orchestrates multi-step workflows, like an advanced Manus. (Try it.)
+- **Surfer H** controls a web browser.
+- **Tester H** automates software testing.
+- The company touts 92% accuracy of task completion at 5.5x less cost than the likes of OpenAI and Anthropic.
+- The stealthy French startup has raised $220M from the likes of Amazon, Samsung, and former Google CEO Eric Schmidt.
+
+#### Nutt's Notes
+
+- Generative AI assistants are powerful teammates, but agents are what will take jobs and transform economies. With an assigned objective, they can determing their own tasks and access various connected tools.
+- I've achieved a lot with narrowly focused Zapier Agents, but I'm eager for dependable general-purpose agent. If the hype is real, H Company could be it.
+
+---
+
+### Perplexity launched Perplexity Labs to produce "projects."
+
+- Perplexity Search provides quick answers. Perplexity Research offers in-depth analysis. Now, Perplexity Labs takes roughly 10 minutes to retrieve, analyaze and synthesize information, then produce a "project."
+- A project can be a report, spreadsheet, dashboard, or even a simple web app.
+- An "Assets" tab organizes all created files, including charts, images, CSVs, and code. An "App" tab holds the interactive web apps.
+- Use cases run the gamut: create an investment dashboard, compile a database of sales leads, or generate a report from raw data with visual charts.
+- Labs is a feature of Perplexity's Pro plan.
+
+#### Nutt's Notes
+
+- Perplexity Labs exemplifies the feature convergence happening across AI tools.
+- Analysts speculated that ChatGPT's search capabilities would crush Perplexity, which began exclusively for search.
+- But as ChatGPT and other general-purpose chatbots adopt search features, Perplexity is now becoming more general-purpose.
+
+---
+
 ### New AI Features Coming to Your iPhone
 
 In this AI "gap year" for Apple, its WWDC keynote focused on a unified new design of its operating systems across devices, but Tim did sneak in a few new AI features:
