@@ -2,6 +2,57 @@
 
 ---
 
+### Viral Excel agent Shortcut is available to everyone.
+
+- Shortcut is an AI agent designed specifically for Excel. From plain English commands, it completes advanced spreadsheet tasks, eliminating the need for high-level Excel skills.
+- The agent summarizes data, unearths insights, and creates complex models, pivot tables and charts.
+- On Excel World Championship cases, Shortcut consistently outperformed human experts in both accuracy and speed, beating first-year analysts from McKinsey and Goldman in 89.1% of head-to-head competitions. That supports the widely held belief that agents will soon replace junior-level analysts.
+- Since its private release weeks ago, the tool has been a sensation in nerdy corners of the internet. This tutorial seems to be the favorite.
+
+#### Nutt's Notes
+
+- Shortcut exemplifies AI's evolution from advisory tools to autonomous agents that actually do the work.
+- I'm eager to see Google add true agentic capability to Google Sheets. Comet is decent at updating Google Sheets—but pain... full... y... slow.
+
+---
+
+### ChatGPT's Study Mode is a powerful learning tool (and a threat to tutors).
+
+Alongside Agent, OpenAI also added Study Mode to the ChatGPT toolkit.
+
+- The feature guides students through problems step-by-step using *Socratic questioning* and *constructive feedback* in lieu of straightforward answers.
+- It relies on *educator-informed custom instructions* to pose thoughtful questions and promote *active learning* rather than simply giving away the solution.
+- The AI engages learners with *prompts*, *hints*, and *knowledge checks*, fostering deeper comprehension through participation.
+- When enabled, ChatGPT intentionally avoids offering quick fixes*, steering users back toward the problem-solving journey.
+- The feature is rolling out now for Free, Plus, Pro, and Team users*, with schools and educational partners set to gain access in the coming weeks.
+
+#### Nutt's Notes
+
+- Learning is a top use case of AI, and Study Mode makes it accessible at its full potential.
+- While it's a boon to students and their budget-conscious parents, it's likely to accelerate the displacement of tutors and other education-adjacent professions.
+- *Related:* Be sure to see my note on NotebookLM under Need-to-Know.
+
+---
+
+### OpenAI released ChatGPT Agent.
+
+- With no hint in advance, OpenAI added Agent mode to ChatGPT's **Tools** menu.
+- Unlike chatbots, which reference information to generate content, **agents take action.**
+- They **control a web browser**, with the ability to navigate live websites, click elements, and fill forms. By contrast, chatbots reference an index of the web—the way traditional Google Search does.
+- Beyond the browser, **they control a virtual computer**, allowing them to run code and generate spreadsheets and slides.
+- Agents also **reason autonomously**. Assigned an objective, they'll create a plan for accomplishing it, then make adjustments as they execute.
+- ChatGPT Agent has finished rolling out to all paying users.
+
+#### Nutt's Notes
+
+- AI is quickly shifting from content-generating chatbots that *inform your work* to autonomous agents that *do your work*.
+- A few ways I use agents nearly every day:
+    1. Find information online to fill empty cells in a spreadsheet.
+    2. Find someone's personal email address.
+    3. Scrape information from a full website.
+
+---
+
 ### Claude gets a voice.
 
 Actually, it gets five voices.
