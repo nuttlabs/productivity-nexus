@@ -2,6 +2,57 @@
 
 ---
 
+### AI Mode for Google Search is rolling out to everyone in the US.
+
+To no one's surprise, Google's I/O conference was all about AI. Here are the two announcements most notable to everyday users like yourself:
+
+**AI Mode for Search**—widely understood to be the future of Google Search—is currently rolling out to all US users.
+   - Moving beyond the blue link list, AI Mode provides comprehensive, synthesized answers to complex queries by breaking them down into subtopics and searching them simultaneously.
+   - Future planned capabilities include:
+     - Deep Search for expert-level reports
+     - Search Live for real-time visual search through the camera
+     - Agentic capabilities to help users complete tasks like booking tickets
+   - When it's enabled for you, you'll find it in a dedicated tab on Google's homepage.
+
+Secondly, **Gmail's Smart Replies** are gaining access to past emails to sound more like you and provide common responses to similar emails.
+   - It'll also have access to Google Drive for additional context.
+   - Access will begin in Google Labs, then extend to Google Workspace and Google One subscribers, likely in Q3.
+
+---
+
+### Sam Altman and Jony Ive are joining forces on AI hardware.
+
+- OpenAI is acquiring io, a startup by legendary Apple designer Jony Ive, for nearly $6.5 billion.
+- Best known for designing the iPhone, Ive is bringing a crack team of 55 employees, many of whom are ex-Apple designers or engineers.
+- That's the alchemy for AI's "iPhone moment," with revolutionary AI-native hardware slated to begin rolling out in 2026.
+- Ive’s design firm, LoveFrom, will also help shape the look and feel of OpenAI’s software, including ChatGPT.
+
+---
+
+### Notion redefined productivity—again—with new AI features.
+
+With four powerful new AI features, Notion continues its tradition of centralizing resources to create a whole that's greater than the sum of its parts.
+
+1. **Meeting notes** is a new type of block that transcribes your meeting and generates summaries, action items and other useful takeaways. You can also chat with Notion AI to ask questions about a specific meeting or all meetings.
+   - Add it like any other block using `/`.
+   - It uses your system audio, so it works with any virtual meeting app or IRL.
+   - If you use Notion Calendar, event notifications will include the option to create a page for AI meeting notes.
+
+2. **Enterprise search** allows you to search across all your tools and services, including your Notion workspace, cloud drives, email and Slack.
+   - From the homepage, you can connect services.
+   - For each search, you can search across all services or specify one.
+   - Searches that include your Notion workspace include the contents of uploaded PDFs.
+
+3. **Research mode** can reference your connected services and the live web to synthesize information from disparate sources in a comprehensive, polished report.
+
+4. The homepage search box also allows you to **chat with ChatGPT or Claude**. They can't reference your sources, but in true Notion spirit, it brings all your chatbots together in one place.
+
+All of these features are available in a new $20/mo. Business plan, which is a no-brainer given the other apps Notion replaces.
+
+If you're a Notion user, or just Notion-curious, definitely subscribe to Notion VIP.
+
+---
+
 ### Viral Excel agent Shortcut is available to everyone.
 
 - Shortcut is an AI agent designed specifically for Excel. From plain English commands, it completes advanced spreadsheet tasks, eliminating the need for high-level Excel skills.
