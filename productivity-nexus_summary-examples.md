@@ -2,6 +2,34 @@
 
 ---
 
+### Announcements from Visa and Mastercard signal the growing role of AI assistants in online shopping.
+
+- Visa's [Intelligent Commerce](https://b7dwf.r.a.d.sendibm1.com/mk/cl/f/sh/7nVU1aA2ng7ZOxVIT5GtnZQMVfbVW34/K_nL9qZppXVy) offers a safe way for AI to complete payments.
+- Early partners include OpenAI and Anthropic, among other top AI labs, which makes it likely that ChatGPT and Claude will soon be completing checkouts for us.
+- Similarly, Mastercard's [Agent Pay](https://b7dwf.r.a.d.sendibm1.com/mk/cl/f/sh/7nVU1aA2ng9SOU0bReVLpvkAg26IFza/YamnM-Lv1BX0) will allow you to complete purchases without leaving apps like ChatGPT when they list products.
+
+#### Nutt's Notes
+
+It's no coincidence that these announcements come alongside ChatGPT's new shopping features. As AI labs seek to monetize their capital-intensive services, ecommerce presents a ripe opportunity.
+
+---
+
+### ChatGPT got better for shopping and citing.
+
+OpenAI [added a handful of improvements](https://b7dwf.r.a.d.sendibm1.com/mk/cl/f/sh/7nVU1aA2ng5gPQzzUW2RlD6YLJ6im6Y/fvieTbWqsAED) to ChatGPT search:
+
+1. A new product-results interface offers recommendations, comparisons, and direct purchase links.
+2. A 'highlight' feature attributes specific segments of the response to their source.
+3. As you type, you'll see trending searches and autocomplete suggestions.
+4. You can search from WhatsApp by messaging 1-800-ChatGPT.
+
+#### Nutt's Notes
+
+- As I say often, ChatGPT offers the best blend of capabilities and features. These updates make that more true.
+- It was Perplexity that first put the heat on Google Search. Now, it seems, ChatGPT is overtaking them both.
+
+---
+
 ### AI Mode for Google Search is rolling out to everyone in the US.
 
 To no one's surprise, Google's I/O conference was all about AI. Here are the two announcements most notable to everyday users like yourself:
