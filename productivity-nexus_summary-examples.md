@@ -2,6 +2,23 @@
 
 ---
 
+### Microsoft's Work Trends Report forecasts complete, immediate transformation.
+
+Informed by Microsoft's treasure trove of data, the company's annual Work Trends Index Report provides key insights for agile businesses. This year, [it heralded an immediate AI-driven transformation](https://b7dwf.r.a.d.sendibm1.com/mk/cl/f/sh/7nVU1aA2nfy8RKylaF6dblpJfr7ZoKU/oJ7eyleOGoUd):
+
+- **The Rise of the "Frontier Firm"** — A new class of companies is emerging—built from the ground up to integrate AI into everyday work. They’re more agile, more efficient, and significantly outperforming traditional firms.
+- **The Capacity Crunch** — Most employees feel stretched thin. In response, leaders are turning to AI agents—not as a luxury, but as a strategic necessity to close the productivity gap.
+- **Rethinking the Org Chart** — Static hierarchies are being replaced by dynamic “Work Charts,” where teams form around goals, not departments—powered by AI that scales expertise on demand.
+- **Enter the Agent Boss** — A new skill set is taking shape: managing AI agents. In the near future, leading people will mean leading both humans and intelligent software.
+- **AI Integration Is Accelerating** — This is no longer experimental. A growing number of organizations are deploying AI across the enterprise—and the pace is only increasing.
+
+#### Nutt's Notes
+
+- The report's predictions are in line with my own, but I was taken aback by the immediacy of the transformation.
+- If you want to stay ahead of it, that's what my [AI Playbook](https://b7dwf.r.a.d.sendibm1.com/mk/cl/f/sh/7nVU1aA2ng01QrU4YoL5e897qDcMYH0/mLY_BnEiO_ZE) is all about.
+
+---
+
 ### Announcements from Visa and Mastercard signal the growing role of AI assistants in online shopping.
 
 - Visa's [Intelligent Commerce](https://b7dwf.r.a.d.sendibm1.com/mk/cl/f/sh/7nVU1aA2ng7ZOxVIT5GtnZQMVfbVW34/K_nL9qZppXVy) offers a safe way for AI to complete payments.
