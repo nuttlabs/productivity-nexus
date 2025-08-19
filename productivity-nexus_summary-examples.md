@@ -2,6 +2,51 @@
 
 ---
 
+### "Learning modes" abound.
+
+In the [previous Productivity Nexus](https://b7dwf.r.a.d.sendibm1.com/mk/cl/f/sh/7nVU1aA2ng9SONE813A0CfjZgUoNhvK/aa1dJTwD7CSD), I wrote about ChatGPT's new Study Mode.
+
+- Using Socratic questioning and constructive feedback, it guides students to conclusions rather than answering outright.
+- Prompts, hints and knowledge checks foster deeper comprehension through participation.
+
+It took no time for Google and Anthropic to respond with features that take the same approach:
+
+- In **Gemini**, [Guided Learning](https://b7dwf.r.a.d.sendibm1.com/mk/cl/f/sh/WCPzyXJTZ6vLwtXMmi4ljRS4Qc7mxqq6/4kd41-Oj8IJJ) is an option within the prompt box. Google also made its AI Pro plan available for free to students.
+- In **Claude**, you'll find [Learning](https://b7dwf.r.a.d.sendibm1.com/mk/cl/f/sh/WCPzyXJTZ7390vkd8nYRVBbrZP0uDYSE/iAI6RL7HLy0Q) among the styles you can choose for the output.
+
+#### Nutt's Notes
+
+- Learning is a top use case of AI, and these Socratic study modes unlock its potential.
+- While the trend is a boon to students and their budget-conscious parents, it's likely to accelerate the displacement of tutors and other education-adjacent professions.
+
+---
+
+### GPT-5 had a rocky rollout.
+
+- If GPT-4 was a college student, GPT-5 is a PhD-level expert on everything. At least, that's how Sam Altman described the highly anticipated model at its debut event.
+- With mixed expectations came mixed reactions, but GPT-5 is objectively state-of-the-art in writing, coding, math and health guidance. _(Interestingly, insights on health have emerged as a top use of AI and core metric for evaluating performance.)_
+- GPT-5 also hallucinates less and communicates honestly when it's unlikely to fulfill a request effectively.
+- The three-model GPT-5 family replaces a flurry of previous models to offer a unified, simpler experience, where you no longer need to pick models or choose when to enable "thinking" (reasoning).
+- But many users lamented that reduced control, especially as the system persistently failed to invoke thinking at the right times. So, OpenAI added a dropdown with three options:
+    - "Fast" for instant answers;
+    - "Thinking" for reasoning; or
+    - "Auto" (default) for the system to choose based on your prompt.
+- And to the surprise of OpenAI (and sane observers like yours truly), [an alarming portion of users](https://b7dwf.r.a.d.sendibm1.com/mk/cl/f/sh/7nVU1aA2ng3nPniD5LSe5am9BPK1U5m/ZxpHHMaztRg-) said that with the retirement of GPT-4o, they lost a friend, therapist or romantic partner.
+    - That prompted OpenAI to restore 4o as an option for paid users.
+    - And it underscored the mounting concern over unhealthy attachments to AI chatbots leading to "[AI psychosis](https://b7dwf.r.a.d.sendibm1.com/mk/cl/f/sh/7nVU1aA2ng5gPKDW3uh67x5xLlooE2I/4aNHkq9ejihZ)."
+- GPT-5 is available to _all_ users, including those on the free plan, with various usage limits. _(When you reach your quota, GPT-5 Mini kicks in.)_
+- Along with the new models, OpenAI added the ability to choose a ChatGPT "personality" and customize your visual theme.
+- At a [candid dinner](https://b7dwf.r.a.d.sendibm1.com/mk/cl/f/sh/7nVU1aA2ng7ZOqip2TvYAJPlW8Jaxyo/pOItZQ4-S72y) with reporters, Sam Altman said OpenAI has better models it can't release due to computing limitations.
+
+#### Nutt's Notes
+
+- How you feel about GPT-5 depends on your expectations. If you were expecting AGI, it's definitely not there. If you were expecting a noticeable improvement from GPT-4, you're pleased.
+- However, its gain from GPT-4 is far smaller than the jump from 3 to 4. And its lead over top models from competing labs is also smaller than GPT-4's profound advantage when it debuted.
+- The welcome surprise was GPT-5's availability to free users, which grants them access to a reasoning model for the first time.
+- The unwelcome surprise was the amplification of AI's toll on mental health.
+
+---
+
 ### Microsoft's Work Trends Report forecasts complete, immediate transformation.
 
 Informed by Microsoft's treasure trove of data, the company's annual Work Trends Index Report provides key insights for agile businesses. This year, [it heralded an immediate AI-driven transformation](https://b7dwf.r.a.d.sendibm1.com/mk/cl/f/sh/7nVU1aA2nfy8RKylaF6dblpJfr7ZoKU/oJ7eyleOGoUd):
