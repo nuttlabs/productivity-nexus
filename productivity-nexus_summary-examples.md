@@ -2,6 +2,52 @@
 
 ---
 
+### ChatGPT now references all of your previous chats.
+
+- An [upgrade to ChatGPT's memory](https://b7dwf.r.a.d.sendibm1.com/mk/cl/f/sh/7nVU1aA2nfy8RKylaF6dblpJfr7ZoKU/y_pBoCO0jMCU) gives it access to your full chat history for reference across chats.
+- That context will foster a more personalized and relevant experience toward OpenAI's goal of "AI systems that get to know you over your life."
+- Unlike the previous memory feature, where you explicitly requested for information to be remembered, ChatGPT now remembers automatically.
+- You can disable memory from personalization settings and ask ChatGPT at any time what it knows about you.
+- It's available now to Pro subscribers and coming soon to Plus.
+
+#### Nutt's Notes
+
+Heretofore, I've approached ChatGPT not as myself but as a different fictional persona in each chat designed to optimize the response. As AIs become more like continuous ambient assistants, I'm shifting that approach. But of course, I'll continue to [define the AI's role](https://b7dwf.r.a.d.sendibm1.com/mk/cl/f/sh/7nVU1aA2ng01QrU4YoL5e897qDcMYH0/9eMvP0sLSAZu) in each chat.
+
+---
+
+### Google announced a slew of new AI features for Google Workspace.
+
+At its Cloud Next event, [Google debuted](https://b7dwf.r.a.d.sendibm1.com/mk/cl/f/sh/7nVU1aA2ng1uQNzNXNZXgUSw0a79IDW/lptfDO4bJ-bV) a variety of new AI features for everyday Google Workspace users. They'll roll out through Q2.
+
+- **Sheets** — "Help Me Analyze” will identify trends, create interactive charts, and recommend strategic actions.
+- **Docs** — "Help Me Refine” will provide suggestions to improve writing clarity, structure, and formatting. With "Audio Overviews," you can listen to your full document or summaries with a podcast vibe.
+- **Meet** — Gemini Assistant will offer meeting recaps in various formats, answer questions via chat, and create follow-up action items.
+- **Workspaces Flows** — Automate multi-step processes across Google Apps. (Think "if this happens, do that.") You can create Flows with natural language in the Gemini app. Workspace admins can [enable it now](https://b7dwf.r.a.d.sendibm1.com/mk/cl/f/sh/7nVU1aA2ng3nPuUgVwnziqmkAwbw2A2/GkgiPRrPpHe0).
+
+#### Nutt's Notes
+
+- In the competition for AI dominance, a distinct and powerful advantage of Google is its popular ecosystem of apps that can be referenced and bolstered by AI.
+- If you're not already using Google Workspace, now's the time to make the switch.
+
+---
+
+### Claude can research online and connect to Google Workspace.
+
+- A new ["Research" feature](https://b7dwf.r.a.d.sendibm1.com/mk/cl/f/sh/7nVU1aA2ng5gPQzzUW2RlD6YLJ6im6Y/Lpi5rrPT3szR) enables [Claude](https://b7dwf.r.a.d.sendibm1.com/mk/cl/f/sh/7nVU1aA2ng7ZOxVIT5GtnZQMVfbVW34/ZtYLE7qxZdqx) to conduct multiple web searches simultaneously to aggregate information and formulate a cohesive report with sources cited.
+- It's "agentic" in that it automatically chooses its research path based on its findings at each step.
+- Anthropic also announced a deep integration with Google Workspace, allowing Claude to reference Gmail, Sheets, Docs, Calendar, et al.
+- That makes Claude more context-aware for more useful, personalized responses.
+- One useful application is aggregating and summarizing information from disparate email threads.
+- Research is available first to Claude's pricier plans but coming soon to Pro subscribers. Workspace integration is available now to all paying users.
+
+#### Nutt's Notes
+
+- In terms of tone and style, Claude is the preferred chatbot for many users, but its lack of access to the live web has been its Achilles heel. This incremental rollout of connected features gives it a strong case for chatbot.
+- This sort of agentic research has become an [essential use case of AI](https://b7dwf.r.a.d.sendibm1.com/mk/cl/f/sh/7nVU1aA2ng9SOU0bReVLpvkAg26IFza/27VgsfexpR_O). All of the top chatbots now offer the capability in some fashion.
+
+---
+
 ### "Learning modes" abound.
 
 In the [previous Productivity Nexus](https://b7dwf.r.a.d.sendibm1.com/mk/cl/f/sh/7nVU1aA2ng9SONE813A0CfjZgUoNhvK/aa1dJTwD7CSD), I wrote about ChatGPT's new Study Mode.
