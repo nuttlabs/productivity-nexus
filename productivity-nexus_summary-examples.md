@@ -1,7 +1,5 @@
 # Productivity Nexus New Synthesis Examples
 
----
-
 ### Open AI fused text and image generation in ChatGPT.
 
 - With ChatGPT's 4o model, text and image generation are [no longer separate processes](https://b7dwf.r.a.d.sendibm1.com/mk/cl/f/sh/7nVU1aA2nfwFRoTSbfsBZPVVVUcn4Ny/W8iyme5Rlwub).
