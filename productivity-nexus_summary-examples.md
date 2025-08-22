@@ -1,4 +1,32 @@
-!!! Resume Here !!!
+# Productivity Nexus New Synthesis Examples
+
+---
+
+### Open AI fused text and image generation in ChatGPT.
+
+- With ChatGPT's 4o model, text and image generation are [no longer separate processes](https://b7dwf.r.a.d.sendibm1.com/mk/cl/f/sh/7nVU1aA2nfwFRoTSbfsBZPVVVUcn4Ny/W8iyme5Rlwub).
+- That makes it easier to generate the image you want using natural language.
+- It also gives the model more world knowledge and conversational context for understanding the subjects of your images.
+- You can edit with natural language, too.
+- It's a transformative upgrade from the old DALL-E integration that's sparked a level of demand that Sam Altman says is "melting" OpenAI's GPUs. Consequently, they delayed rollout of the feature to users on the free tier.
+- Much of that demand can be attributed to a trend where users recreate memes [in the iconic style of Studio Ghibli](https://b7dwf.r.a.d.sendibm1.com/mk/cl/f/sh/7nVU1aA2nfy8RKylaF6dblpJfr7ZoKU/S3wmWi_K1Zpv).
+
+#### Nutt's Notes
+
+- Google recently made the same move.
+- It's another example of the trend toward relieving users from juggling multiple tools and making technical decisions.
+
+---
+
+### Reve debuted as the top image generator.
+
+- Reve exploded out of stealth mode as the #1 image generator, topping leaders like Google's Imagen and Midjourney across benchmarks.
+- In addition to text-to-image generation, it supports image uploads for image-to-image generation and natural-language editing.
+- Reve is [free to try](https://b7dwf.r.a.d.sendibm1.com/mk/cl/f/sh/7nVU1aA2ng01QrU4YoL5e897qDcMYH0/5yZ58tM9n7gJ).
+
+#### Nutt's Notes
+
+- Reve's stunning emergence out of nowhere underscores how much is happening behind the scenes, and how the AI world can change on a dime.
 
 ---
 
