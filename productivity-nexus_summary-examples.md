@@ -2,6 +2,48 @@
 
 ---
 
+### Create and edit images with natural language.
+
+- Generating text and images is traditionally handled by separate AI models. The image generators are trained to follow specific descriptions, with minimal contextual world knowledge.
+- Google just merged text and image generation into a single model: "Native image generation" allows you to create or upload an image, then edit it using natural language and contextual knowledge.
+- As you iterate by chatting, the model effectively retains text, characters, and other attributes.
+- It's currently in public beta. In [Google AI Studio](https://b7dwf.r.a.d.sendibm1.com/mk/cl/f/sh/7nVU1aA2ng5gPQzzUW2RlD6YLJ6im6Y/IzQBgWs9d-1j), choose 2.0-flash-exp.
+
+#### Nutt's Notes
+
+- I use a mix of image generators because they all have different strengths. That's a pain. And they all require a fundamental understanding of photography. Although I'm getting mixed results from 2.0-flash-exp, I'm _thrilled_ by the direction.
+- Google's integration of text and image generation highlights the broader trend toward requiring fewer technical choices from the user.
+
+---
+
+### Collaborate with Gemini in Canvas.
+
+- Within [a new Canvas feature](https://b7dwf.r.a.d.sendibm1.com/mk/cl/f/sh/7nVU1aA2ng1uQNzNXNZXgUSw0a79IDW/HWP5dEFC6Bw2), you can directly edit text or code, working with Gemini as you iterate.
+- You can highlight segments for focused updates or feedback.
+- For coding projects, Canvas displays a live preview that renders your updates in real time.
+- Most English-language users will find the Canvas option in [Gemini](https://b7dwf.r.a.d.sendibm1.com/mk/cl/f/sh/7nVU1aA2ng3nPuUgVwnziqmkAwbw2A2/sdUysWuA-yFQ)'s prompt bar.
+
+#### Nutt's Notes
+
+- Canvas is Google's answer to the ChatGPT feature of the same name.
+- It's yet another example of how the leading general-purpose AIs are drawing from each other in their battle for market share.
+
+---
+
+### Claude can access the web.
+
+- No longer is [Claude](https://b7dwf.r.a.d.sendibm1.com/mk/cl/f/sh/7nVU1aA2ng01QrU4YoL5e897qDcMYH0/utCi97-5xHah) the only top general-purpose AI without access to the live web.
+- The AI automatically decides when it needs to access real-time information to provide the best response.
+- It's currently available to paying subscribers by enabling "Web Search" in their profile settings.
+- It's coming soon to users on the free plan.
+
+#### Nutt's Notes
+
+- Claude is widely considered the best copywriter and coder, but its inability to access real-time information has been prohibitive for many other needs, driving users elsewhere for their default general-purpose AI.
+- By closing this feature gap, Claude rejoins the conversation of top all-around chatbots.
+
+---
+
 ### Open AI fused text and image generation in ChatGPT.
 
 - With ChatGPT's 4o model, text and image generation are [no longer separate processes](https://b7dwf.r.a.d.sendibm1.com/mk/cl/f/sh/7nVU1aA2nfwFRoTSbfsBZPVVVUcn4Ny/W8iyme5Rlwub).
