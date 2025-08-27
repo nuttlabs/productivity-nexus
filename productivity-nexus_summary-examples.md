@@ -2,6 +2,37 @@
 
 ---
 
+### Google revealed the future of Search.
+
+- Participants in [Google Search](https://b7dwf.r.a.d.sendibm1.com/mk/cl/f/sh/WCPzyXJTZ7Aw4y4fyJdScZ1fJBRJNo8c/suJasH97dTm8) Labs began seeing an option for [AI Mode](https://b7dwf.r.a.d.sendibm1.com/mk/cl/f/sh/WCPzyXJTZ7Ij90HwKP78OJBSRyKQdVkk/m_Z_rwhVO46e) in Google Search.
+- Instead of the traditional list of blue links, it responds with an AI-generated explanation that's much more in-depth than the AI Overviews users have seen at the top of Google Search.
+- The text includes hyperlinks and cited sources, and users can ask follow-up questions.
+
+#### Nutt's Notes
+
+- Google continues to thread a tiny needle as it wards off threats AI search features from OpenAI and Perplexity without disrupting its cash cow or infuriating online publishers who depend on Google Search for traffic.
+
+---
+
+### Manus amplified the hype around AI agents and Chinese dominance.
+
+- Chinese company Monica [debuted Manus](https://b7dwf.r.a.d.sendibm1.com/mk/cl/f/sh/WCPzyXJTZ7QWD2VCgUaoA3LFalDXtDMs/wGCc4U2y7YBS), an AI agent that beats OpenAI's Deep Research and other top agents on key benchmarks.
+- Unlike general-purpose chatbots like ChatGPT, AI agents are given an end objective, then create their own series of tasks. They reason: Each task is informed by outcomes of the previous task.
+- Manus's demos included scanning resumes for top candidates, researching and monitoring stocks, and building websites.
+- It's currently in closed beta with a [waiting list](https://b7dwf.r.a.d.sendibm1.com/mk/cl/f/sh/WCPzyXJTZ7YJH4iT2a4TvnV2jY6f8uz0/QULoXqpLKlRs).
+- Manus arrives on the heels of DeepSeek, the AI that upended the industry with premier performance at a minimal price and threats of Chinese dominance in the AI race.
+
+#### Nutt's Notes
+
+Manus underscores essential trends in AI:
+
+1. Autonomous agents
+2. Commoditization of high-performing models
+3. Parity in the global AI race
+4. Availability of powerful new technologies to any person or country—for good or for weaponization
+
+---
+
 ### Create and edit images with natural language.
 
 - Generating text and images is traditionally handled by separate AI models. The image generators are trained to follow specific descriptions, with minimal contextual world knowledge.
