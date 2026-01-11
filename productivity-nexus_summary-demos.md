@@ -1,7 +1,5 @@
 # Productivity Nexus New Synthesis Examples
 
----
-
 ### AI chatbots are becoming shopping assistants.
 
 In a watershed moment for the commercial viability of AI, traffic to U.S. retail sites driven by AI tools [surged 805% on Black Friday](https://b7dwf.r.ag.d.sendibm3.com/mk/cl/f/sh/7nVU1aA2ng01RC7kf8Z1Pzky8RfzB7G/Esv2obp2UFmO), with those shoppers proving 38% more likely to make a purchase than visitors from non-AI sources. And beyond Black Friday, [nearly half](https://b7dwf.r.ag.d.sendibm3.com/mk/cl/f/sh/7nVU1aA2ng1uQid3dhnTSM4mIoAlv3m/eFPZB-JDb1si) of U.S. shoppers have used AI for gift research this holiday season. That's thanks in part to new shopping features in ChatGPT and Perplexity.
