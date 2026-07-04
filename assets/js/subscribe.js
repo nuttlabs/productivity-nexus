@@ -1,15 +1,17 @@
 /* Productivity Nexus — homepage subscription form
- * Posts email + Cloudflare Turnstile token + honeypot to the Cloudflare
- * Worker (which verifies the token and forwards to Airtable), then
- * redirects to /one-more-step. Replaces Webflow's form handler.
+ * Invisible Cloudflare Turnstile. The widget renders hidden and the
+ * challenge runs only after the visitor clicks submit (execution:
+ * "execute" + appearance: "interaction-only"). On success it posts
+ * email + token + honeypot to the Cloudflare Worker (which verifies the
+ * token and forwards to Airtable), then redirects to /one-more-step.
  * ------------------------------------------------------------------ */
 (function () {
   "use strict";
 
   // === CONFIG ============================================================
-  // Your deployed Cloudflare Worker URL (e.g. https://pn-subscribe.<sub>.workers.dev)
   var ENDPOINT = "https://productivity-nexus-cloudflare-turnstile.nutt-labs.workers.dev";
   var REDIRECT = "/one-more-step";
+  var SITEKEY  = "0x4AAAAAADvPF-zygrhIcP0Z";
   // ======================================================================
 
   var form = document.getElementById("wf-form-Subscription");
@@ -21,16 +23,56 @@
   var submitValue = submitBtn ? submitBtn.value : "";
   var submitWait = submitBtn ? (submitBtn.getAttribute("data-wait") || "") : "";
 
+  var widgetId = null;
+  var pending = null; // { email, honeypot } captured when submit is clicked
+
   function showError() {
     if (fail) fail.style.display = "block";
     if (submitBtn) { submitBtn.value = submitValue; submitBtn.disabled = false; }
-    if (window.turnstile) { try { window.turnstile.reset(); } catch (e) {} }
+    pending = null;
+    if (window.turnstile && widgetId !== null) {
+      try { window.turnstile.reset(widgetId); } catch (e) {}
+    }
   }
+
+  function post(token) {
+    if (!pending) return;
+    var body = { email: pending.email, turnstileToken: token, company: pending.honeypot };
+
+    fetch(ENDPOINT, {
+      method: "POST",
+      headers: { "Content-Type": "application/json" },
+      body: JSON.stringify(body)
+    })
+      .then(function (res) {
+        if (!res.ok) throw new Error("Endpoint responded " + res.status);
+        window.location.href = REDIRECT;
+      })
+      .catch(function () { showError(); });
+  }
+
+  // Turnstile calls this once its API script has loaded (render=explicit).
+  // The widget is hidden and idle until we call execute() on submit.
+  window.onloadTurnstileCallback = function () {
+    if (!window.turnstile) return;
+    try {
+      widgetId = window.turnstile.render("#cf-turnstile-widget", {
+        sitekey: SITEKEY,
+        execution: "execute",          // do not run the challenge on load
+        appearance: "interaction-only", // stay invisible unless interaction is required
+        callback: function (token) { post(token); },
+        "error-callback": function () { showError(); },
+        "expired-callback": function () { showError(); }
+      });
+    } catch (e) {}
+  };
 
   // Capture phase so Webflow's delegated submit handler never fires.
   form.addEventListener("submit", function (e) {
     e.preventDefault();
     e.stopImmediatePropagation();
+
+    if (fail) fail.style.display = "none";
 
     var emailInput = form.querySelector('input[name="email"]');
     var email = emailInput ? emailInput.value.trim() : "";
@@ -39,31 +81,17 @@
     var honeypotInput = form.querySelector('input[name="company"]');
     var honeypot = honeypotInput ? honeypotInput.value : "";
 
-    // Cloudflare Turnstile token (auto-injected hidden input, or API call)
-    var token = "";
-    var tokenInput = form.querySelector('input[name="cf-turnstile-response"]');
-    if (tokenInput) token = tokenInput.value;
-    if (!token && window.turnstile) {
-      try { token = window.turnstile.getResponse(); } catch (err) {}
-    }
-    if (!token) { showError(); return; }
+    if (!window.turnstile || widgetId === null) { showError(); return; }
 
-    if (fail) fail.style.display = "none";
+    pending = { email: email, honeypot: honeypot };
     if (submitBtn) { submitBtn.disabled = true; if (submitWait) submitBtn.value = submitWait; }
 
-    fetch(ENDPOINT, {
-      method: "POST",
-      headers: { "Content-Type": "application/json" },
-      body: JSON.stringify({
-        email: email,
-        turnstileToken: token,
-        company: honeypot
-      })
-    })
-      .then(function (res) {
-        if (!res.ok) throw new Error("Endpoint responded " + res.status);
-        window.location.href = REDIRECT;
-      })
-      .catch(function () { showError(); });
+    // Run the challenge now (after the click). Token arrives in the
+    // success callback above, which then posts to the Worker.
+    try {
+      window.turnstile.execute(widgetId);
+    } catch (err) {
+      showError();
+    }
   }, true);
 })();
